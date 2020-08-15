@@ -1,7 +1,7 @@
 # JavaPrograms
 All Java programs in this Repository
 
-<h1>What I learned:</h1>
+<h5>What I learned:</h5>
 * Basic codes
 * OOP
 * Data-structures
